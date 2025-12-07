@@ -5,9 +5,10 @@ This project was developed as the final exam project for the Natural Language Pr
 
 ⸻
 
-Key Features
-	•	NLP preprocessing: text cleaning, tokenization, POS tagging, and lemmatization
-	•	Feature extraction using Bag-of-Words and TF-IDF
-	•	Trained multiple ML models, including Logistic Regression, Naive Bayes, SVM, and Random Forest
-	•	Developed a custom TensorFlow/Keras CNN, achieving over 94% accuracy and precision
-	•	Analysis of performance differences between classical ML methods and the CNN model
+Key Features  
+
+- NLP preprocessing: text cleaning, tokenization, POS tagging, and lemmatization
+- Feature extraction using Bag-of-Words and TF-IDF
+- Trained multiple ML models, including Logistic Regression, Naive Bayes, SVM, and Random Forest
+- Developed a custom TensorFlow/Keras CNN, achieving over 94% accuracy and precision
+- Analysis of performance differences between classical ML methods and the CNN model
